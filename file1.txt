@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is my project1.
 This line is on develop branch.
+=======
+This file is modified on master branch. 
+>>>>>>> da1c43a (Modified file on master branch and created a new file file_master on master branch)
